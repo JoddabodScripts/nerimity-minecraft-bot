@@ -30,7 +30,7 @@ cp config.json.example config.json
 
 5. Run it:
 ```bash
-node bot.js
+bash start.sh (linux only if on window's then run node bot.js )
 ```
 
 ## Commands
