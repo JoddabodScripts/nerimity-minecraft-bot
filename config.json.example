@@ -1,0 +1,5 @@
+{
+  "nerimityToken": "your-bot-token-here",
+  "pollInterval": 100000,
+  "servers": {}
+}
