@@ -29,9 +29,8 @@ cp config.json.example config.json
 4. Invite the bot to your server with the invite link from the dev portal - give it admin perms
 
 5. Run it:
-```bash
-bash start.sh (linux only if on window's then run node bot.js )
-```
+
+`bash start.sh` (linux only if on window's then run `node bot.js` )
 
 ## Commands
 
